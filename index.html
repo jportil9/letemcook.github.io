@@ -29,6 +29,9 @@
     <input type="checkbox" id="onePotCheckBox" name="onePotCheckBox" value="OnePot">
     <label for="onePotCheckBox"> One-Pot/CrockPot</label><br>
 
+    <input type="checkbox" id="slowCookerCheckBox" name="slowCookerCheckBox" value="SlowCooker">
+    <label for="slowCookerCheckBox"> Slow-Cooker</label><br>
+
     
 
     
@@ -48,8 +51,6 @@
     <button onclick="onFilterRecipesClick()">Filter recipes</button>
 
     
-
-    
     <script>
         function onFilterRecipesClick(){
            
@@ -59,6 +60,9 @@
             var onePotChecked = document.getElementById("onePotCheckBox").checked;
             var safetyOnChecked = document.getElementById("safetyOnCheckBox").checked;
             var singleDishChecked = document.getElementById("singleDishCheckBox").checked;
+            var SlowCookerChecked = document.getElementById("slowCookerCheckBox").checked;
+
+            findRecipes(ovenBool,stoveBool,crockBool,microBool,sharpBool,oneDishBool);
         
             //this is checking the boolean values of each check box
         }  
@@ -69,12 +73,43 @@
     //first i need a file reader
     let reader = new FileReader();
     
-    function findRecipes(){
+    function findRecipes(ovenBool,stoveBool,crockBool,microBool,safetyBool,oneDishBool){
         //put recipe file here when done
-        reader.readAsText()
+        //i cant believe this is how i have to make a 2d array 
+        let stringArray = [];
+        for(let i=0; i<25;i++){
+            stringArray[i] = []
+            for(let j=0;j<4;j++){
+                stringArray[i][j] = [];
+            }
+        }
+        //now i have to fill it in
+        for(let i=0;i<25;i++){
+            for(let j=0;j<4;j++){
+                stringArray[i][j] = reader.readAsText(recipelist.txt).split('||');
+            }
+        }
 
+        if(sharpBool==true){
+            for(let i=0;i<25;i++){
+                if(stringArray[i][3]==true){
+                    stringArray.splice(i,1);
+                }
+            }
+        }
+        if(oneDishBool==true){
+            for(let i=0;i<25;i++){
+                if(stringArray[i][4]==false){
+                    stringArray.splice(i,1);
+                }
+            }
+        }
+
+        //now i need to split up all the appliances
+        
 
     }
+
     </script>
 
     <br>
