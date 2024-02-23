@@ -1,0 +1,25 @@
+1-Pot Chickpea Shakshuka|https://minimalistbaker.com/1-pot-chickpea-shakshuka/||false|true|false|false|false||true||true
+15 Minute Lo Mein Recipe|https://pinchofyum.com/lo-mein/||false|true|false|false|false||true||false
+4 Ingredient Pesto Chicken Bake|https://www.simplysissom.com/pestochickenbake/||true|true|false|false|false||true||false
+Bacon And Egg Ramen Recipe|https://tasty.co/recipe/bacon-and-egg-ramen||false|true|false|false|false||true||false
+Bowties and Broccoli - Budget Bytes|https://www.budgetbytes.com/bowties-and-broccoli/||false|true|false|false|false||false||false
+Chicken & Biscuits Bake Recipe by Tasty|https://tasty.co/recipe/chicken-biscuits-bake||true|true|false|false|false||true||true
+Chicken & Veggie Stir-Fry Recipe by Tasty|https://tasty.co/recipe/chicken-veggie-stir-fry||false|true|false|false|false||true||true
+Easy Beef and Broccoli - Damn Delicious|https://damndelicious.net/2014/08/13/easy-beef-broccoli/||false|true|false|false|false||true||false
+Easy Butter Chicken|https://tasty.co/recipe/easy-butter-chicken||false|true|false|false|false||true||true
+Easy Chicken Alfredo Penne Recipe by Tasty|https://tasty.co/recipe/easy-chicken-alfredo-penne||false|true|false|false|false||true||false
+Fajita Parchment-Baked Chicken Recipe by Tasty|https://tasty.co/recipe/fajita-parchment-baked-chicken||true|false|false|false|false||true||false
+Instant Pot Cashew Chicken Stir Fry|https://fitfoodiefinds.com/instant-pot-cashew-chicken/||false|false|false|true|false||true||true
+Microwave Ropa Vieja Recipe _ Food Network Kitchen _ Food Network|https://www.foodnetwork.com/recipes/food-network-kitchen/microwave-ropa-vieja-3362995||false|false|false|false|true||true||false
+One-Pot Lemon Garlic Shrimp Pasta|https://tasty.co/recipe/one-pot-lemon-garlic-shrimp-pasta||false|true|false|false|false||true||true
+Protein-Packed Buddha Bowl Recipe by Tasty|https://tasty.co/recipe/protein-packed-buddha-bowl||true|true|false|false|false||true||false
+Roasted Veggie and Black Bean Tacos - Cooking Classy|https://www.cookingclassy.com/roasted-veggie-black-bean-tacos/||true|true|false|false|false||true||false
+Sheet Pan BBQ Meatloaf Dinner - Budget Bytes|https://www.budgetbytes.com/sheet-pan-bbq-meatloaf-dinner/||true|false|false|false|false||false||false
+Sheet Pan Sausage and Veggies - Chelsea's Messy Apron|https://www.chelseasmessyapron.com/one-pan-healthy-sausage-and-veggies/||true|true|false|false|false||true||true
+Skinny Bell Pepper Nacho Boats - Skinny Ms_|https://skinnyms.com/skinny-bell-pepper-nachos-recipe/||true|true|false|false|false||true||false
+Slow Cooker Pot Roast|https://tasty.co/recipe/slow-cooker-pot-roast||false|false|true|false|false||true||true
+Spicy Baked Black Bean Nachos - Budget Bytes|https://www.budgetbytes.com/spicy-baked-black-bean-nachos/||true|true|false|false|false||true||false
+Spicy Tuna Avocado Wrap - Eat Yourself Skinny|https://www.eatyourselfskinny.com/spicy-tuna-avocado-wrap/||false|false|false|false|false||true||false
+The Best Crockpot BBQ Chicken - Family Fresh Meals|https://www.familyfreshmeals.com/best-crockpot-bbq-chicken/||false|false|true|false|false||false||true
+Veggie Garlic Noodles Recipe by Tasty|https://tasty.co/recipe/veggie-garlic-noodles||false|true|false|false|false||true||true
+Weekday Meal-Prep Pesto Chicken & Veggies Recipe by Tasty|https://tasty.co/recipe/weekday-meal-prep-pesto-chicken-veggies||false|true|false|false|false||true||true
