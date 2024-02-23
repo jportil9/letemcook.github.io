@@ -14,7 +14,7 @@ public class Main {
         numRecipes = recSearch.size();
         FileWriter fw = new FileWriter("C:\\Users\\kpopc\\Desktop\\School\\Hackathon\\recipelist.txt");
 
-        System.out.println("Testing recipe database...");
+        //System.out.println("Testing recipe database...");
         for(int i = 0 ; i < numRecipes ; i++)
         {
             //System.out.printf("Recipe: %s\nLink: %s\n", recSearch.get(i).getRecName(), recSearch.get(i).getRecLink());
