@@ -1,35 +1,85 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <meta charset="utf-8">
+   <meta charset="UTF-8">
    <meta name="viewpoint" content="width=device-width, initial-scale=1">
-   <title> yippee!!!!</title>
+   <title> Let em' Cook!</title>
    <link rel="stylesheet" href="styles.css" />
+   
 
 </head>
 
 <body>
-    
-    <h1> 
-        <b>this is my tester file while i learn how html works</b>
+    <h1>
+        Let em' Cook!
     </h1>
-    <h2>
-        this is header 2 (subtitle)
-    </h2>
-    <p> 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-          nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa 
-          qui officia deserunt mollit anim id est laborum.
-    </p>
+    <h4>
+        Available Appliances
+    </h4>
+   
+    <input type="checkbox" id="stoveCheckBox" name="stoveCheckBox" value="Stove">
+    <label for="stoveCheckBox"> Stove</label><br>
+   
+    <input type="checkbox" id="ovenCheckBox" name="ovenCheckBox" value="Oven">
+    <label for="ovenCheckBox"> Oven</label><br>
 
-    im testing out the break function starting... <br> now
-    <a href="https://www.google.com" target="_blank"
-    >this link goes to google</a>
-    well it should in theory
+    <input type="checkbox" id="MCCheckBox" name="MCCheckBox" value="Microwave">
+    <label for="MCCheckBox"> Microwave</label><br>
+
+    <input type="checkbox" id="onePotCheckBox" name="onePotCheckBox" value="OnePot">
+    <label for="onePotCheckBox"> One-Pot/CrockPot</label><br>
+
+    
+
+    
+    <h4>
+        Safety Filter (filter out the use of Knives/Sharp utenisils)
+    </h4>
+    <input type="checkbox" id="safetyOnCheckBox" name="safetyOnCheckBox" value="SafetyOn">
+    <label for="safetyOnCheckBox"> On</label><br>
+
+
+    <h4>
+        Additional Filters
+    </h4>
+    <input type="checkbox" id="singleDishCheckBox" name="singleDishCheckBox" value="singleDish">
+    <label for="singleDishCheckBox"> Single Dish </label><br>
+
+    <button onclick="onFilterRecipesClick()">Filter recipes</button>
+
+    
+
+    
+    <script>
+        function onFilterRecipesClick(){
+           
+            var stoveChecked = document.getElementById("stoveCheckBox").checked;
+            var ovenChecked = document.getElementById("ovenCheckBox").checked;
+            var MCChecked = document.getElementById("MCCheckBox").checked;
+            var onePotChecked = document.getElementById("onePotCheckBox").checked;
+            var safetyOnChecked = document.getElementById("safetyOnCheckBox").checked;
+            var singleDishChecked = document.getElementById("singleDishCheckBox").checked;
+        
+            //this is checking the boolean values of each check box
+        }  
+    </script>
+
+    <script>
+    //time to build the function that will actually pick out the recipes
+    //first i need a file reader
+    let reader = new FileReader();
+    
+    function findRecipes(){
+        //put recipe file here when done
+        reader.readAsText()
+
+
+    }
+    </script>
+
+    <br>
+    <div id="myDiv"></div>
+    <script type="text/javascript" src="./app.js"></script>
 </body>
 
 </html>
