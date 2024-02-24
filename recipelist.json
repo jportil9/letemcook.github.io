@@ -1,0 +1,367 @@
+{
+	"recipes": [
+		{
+		 "name": "1-Pot Chickpea Shakshuka",
+		 "link": "https://minimalistbaker.com/1-pot-chickpea-shakshuka/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "15 Minute Lo Mein Recipe",
+		 "link": "https://pinchofyum.com/lo-mein/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "4 Ingredient Pesto Chicken Bake",
+		 "link": "https://www.simplysissom.com/pestochickenbake/",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Bacon And Egg Ramen Recipe",
+		 "link": "https://tasty.co/recipe/bacon-and-egg-ramen",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Bowties and Broccoli - Budget Bytes",
+		 "link": "https://www.budgetbytes.com/bowties-and-broccoli/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Chicken & Biscuits Bake Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/chicken-biscuits-bake",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Chicken & Veggie Stir-Fry Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/chicken-veggie-stir-fry",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Chickpea, Artichoke & Avocado Salad with Apple Cider Dressing",
+		 "link": "https://www.eatingwell.com/recipe/264678/flat-belly-salad/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "chopped-power-salad-with-chicken",
+		 "link": "https://www.eatingwell.com/recipe/7917784/chopped-power-salad-with-chicken/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Easy Beef and Broccoli - Damn Delicious",
+		 "link": "https://damndelicious.net/2014/08/13/easy-beef-broccoli/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Easy Butter Chicken",
+		 "link": "https://tasty.co/recipe/easy-butter-chicken",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Easy Chicken Alfredo Penne Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/easy-chicken-alfredo-penne",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Fajita Parchment-Baked Chicken Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/fajita-parchment-baked-chicken",
+		 "oven": "true",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "green-goddess-sandwich",
+		 "link": "https://www.eatingwell.com/recipe/7973460/green-goddess-sandwich/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Instant Pot Cashew Chicken Stir Fry",
+		 "link": "https://fitfoodiefinds.com/instant-pot-cashew-chicken/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "true",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "mediterranean-salad-on-mini-naan",
+		 "link": "https://www.bhg.com/recipe/mediterranean-salad-on-mini-naan/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Microwave Chicken and Dumplings Recipe _ Food Network Kitchen _ Food Network",
+		 "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/microwave-chicken-and-dumplings-3362678",
+		 "oven": "true",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "true",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Microwave Ropa Vieja Recipe _ Food Network Kitchen _ Food Network",
+		 "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/microwave-ropa-vieja-3362995",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "true",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "One-Pot Lemon Garlic Shrimp Pasta",
+		 "link": "https://tasty.co/recipe/one-pot-lemon-garlic-shrimp-pasta",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "pan-grilled-mahi-mahi-with-avocado-sauce",
+		 "link": "https://www.bhg.com/recipe/pan-grilled-mahi-mahi-with-avocado-sauce/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "false"
+		},
+		{
+		 "name": "pasta_lemon-basil-pasta",
+		 "link": "https://www.bhg.com/recipe/pasta/lemon-basil-pasta/",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Protein-Packed Buddha Bowl Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/protein-packed-buddha-bowl",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Roasted Veggie and Black Bean Tacos - Cooking Classy",
+		 "link": "https://www.cookingclassy.com/roasted-veggie-black-bean-tacos/",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "salmon-avocado-poke-bowl",
+		 "link": "https://www.eatingwell.com/recipe/257112/salmon-avocado-poke-bowl/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Sheet Pan BBQ Meatloaf Dinner - Budget Bytes",
+		 "link": "https://www.budgetbytes.com/sheet-pan-bbq-meatloaf-dinner/",
+		 "oven": "true",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Sheet Pan Sausage and Veggies - Chelsea's Messy Apron",
+		 "link": "https://www.chelseasmessyapron.com/one-pan-healthy-sausage-and-veggies/",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Skinny Bell Pepper Nacho Boats - Skinny Ms_",
+		 "link": "https://skinnyms.com/skinny-bell-pepper-nachos-recipe/",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Slow Cooker Pot Roast",
+		 "link": "https://tasty.co/recipe/slow-cooker-pot-roast",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "true",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Spicy Baked Black Bean Nachos - Budget Bytes",
+		 "link": "https://www.budgetbytes.com/spicy-baked-black-bean-nachos/",
+		 "oven": "true",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "Spicy Tuna Avocado Wrap - Eat Yourself Skinny",
+		 "link": "https://www.eatyourselfskinny.com/spicy-tuna-avocado-wrap/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "false"
+		},
+		{
+		 "name": "The Best Crockpot BBQ Chicken - Family Fresh Meals",
+		 "link": "https://www.familyfreshmeals.com/best-crockpot-bbq-chicken/",
+		 "oven": "false",
+		 "stove": "false",
+		 "slowcooker": "true",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "false",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Veggie Garlic Noodles Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/veggie-garlic-noodles",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		},
+		{
+		 "name": "Weekday Meal-Prep Pesto Chicken & Veggies Recipe by Tasty",
+		 "link": "https://tasty.co/recipe/weekday-meal-prep-pesto-chicken-veggies",
+		 "oven": "false",
+		 "stove": "true",
+		 "slowcooker": "false",
+		 "instantpot": "false",
+		 "microwave": "false",
+		 "sharp": "true",
+		 "onedish": "true"
+		}
+	]
+}
