@@ -80,16 +80,22 @@
 
                 }
                 else{
-                    
-                    var textNode = document.createTextNode(recipeArray[i].name + " - " + recipeArray[i].link);
-                    paragraph.appendChild(textNode);
+                    var linkElement = document.createElement('a');
+                    linkElement.href = recipeArray[i].link;
+                    linkElement.innerText = recipeArray[i].name;
+                    linkElement.target = "_blank";
+                    //var textNode = document.createTextNode(recipeArray[i].name);
+                    var container = document.createElement("p");
+                    //container.appendChild(textNode);
+                    container.appendChild(linkElement);
                 var lineBreak = document.createElement("br");
                 //append the break to the paragraph
-                paragraph.appendChild(lineBreak);
+                container.appendChild(lineBreak);
                     
                 } 
+                testDiv.appendChild(container);
             };
-                testDiv.appendChild(paragraph);
+                
         }  
     </script>
     <script>
