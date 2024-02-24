@@ -5,13 +5,13 @@ public class Main {
     public static void main(String[] args) throws IOException {
         int numRecipes = 0;
         ArrayList<Recipe> recSearch = new ArrayList<Recipe>();
-        File recDirectory = new File("C:\\Users\\kmidd\\letemcook.github.io\\Recipes Folder");
+        File recDirectory = new File("C:\\Users\\kpopc\\Desktop\\School\\Hackathon\\Recipes Folder");
         File[] recList = recDirectory.listFiles();
         for (File file : recList) {
             recSearch.add(new Recipe(file));
         }
         numRecipes = recSearch.size();
-        FileWriter fw = new FileWriter("C:\\Users\\kmidd\\letemcook.github.io\\recipelist.json");
+        FileWriter fw = new FileWriter("C:\\Users\\kpopc\\Desktop\\School\\Hackathon\\recipelist.json");
 
         //System.out.println("Testing recipe database...");
         fw.write("{\n" + "\t\"recipes\": [\n");
