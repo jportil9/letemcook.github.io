@@ -62,7 +62,7 @@ public class Main {
         }
         fw.write("\n\t]\n}");
         fw.close();
-        System.out.printf("Total Recipes: %d\n\n", numRecipes);
+        // System.out.printf("Total Recipes: %d\n\n", numRecipes);
 
         /* //Testing predetermined search queries
         ArrayList<Recipe> searchResult;
